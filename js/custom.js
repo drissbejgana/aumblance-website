@@ -12,7 +12,18 @@
     $('.hero-section').backstretch([
       "images/slideshow/1.jpeg", 
       "images/slideshow/2.jpeg",
-      "images/slideshow/3.jpeg"
+      "images/slideshow/4.jpeg",
+      "images/slideshow/5.jpeg",
+      "images/slideshow/6.jpeg",
+      "images/slideshow/7.jpeg",
+      "images/slideshow/8.jpeg",
+      "images/slideshow/9.jpeg",
+      "images/slideshow/10.jpeg",
+      "images/slideshow/11.jpeg",
+      "images/slideshow/12.jpeg",
+      "images/slideshow/13.jpeg",
+      "images/slideshow/14.jpeg",
+      "images/slideshow/15.jpeg",
     ],  {duration: 2000, fade: 750});
     
     // CUSTOM LINK
