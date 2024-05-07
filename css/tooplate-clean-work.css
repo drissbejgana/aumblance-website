@@ -6,7 +6,9 @@ https://www.tooplate.com/view/2132-clean-work
 
 */
 
-
+body{
+  overflow: hidden;
+}
 
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
