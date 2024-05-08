@@ -808,7 +808,9 @@ strong {
     margin-top: 0;
     pointer-events: auto;
   }
+
 }
+
 
 .navbar-toggler {
   border: 0;
@@ -1569,6 +1571,9 @@ strong {
 }
 
 @media screen and (max-width: 991px) {
+  .logo{
+    margin-top: 45px;
+  }
   h1 {
     font-size: 42px;
   }
